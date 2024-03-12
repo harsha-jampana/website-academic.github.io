@@ -4,7 +4,7 @@
   "description": "Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "https://github.com/harsha-jampana/website-academic.github.io.git"
   },
   "keywords": [
     "jekyll",
@@ -14,9 +14,9 @@
   "author": "J H Mounika",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/harsha-jampana/website-academic.github.io.git/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://github.com/harsha-jampana/website-academic.github.io.git",
   "engines": {
     "node": ">= 0.10.0"
   },
